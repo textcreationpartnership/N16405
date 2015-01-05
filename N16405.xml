@@ -116,19 +116,19 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:021065_0000_0FB22D278BAA82E0"/>
-            <pb facs="tcp:021065_0001_0FB22D20CF1F71D8"/>
+            <pb facs="unknown:021065_0000_0FB22D278BAA82E0"/>
+            <pb facs="unknown:021065_0001_0FB22D20CF1F71D8"/>
             <p>THE TRIUMPH OF INFIDELITY: A POEM.</p>
             <p>PRINTED IN THE WORLD; M, DCC, LXXXVIII.</p>
          </div>
          <div type="dedication">
-            <pb facs="tcp:021065_0002_0FB22D225A984DC8"/>
+            <pb facs="unknown:021065_0002_0FB22D225A984DC8"/>
             <head>To Mons. de Voltaire.</head>
             <opener>
                <salute>SIR,</salute>
             </opener>
             <p>YOUR <hi>Creator endued you with shining talents, and cast your lot in a field of action, where they might be most happily employed: In the progress of a long and industrious life, you devoted them to a single purpose, the elevation of your cha<g ref="char:EOLhyphen"/>racter above his. For the accomplishment of this purpose, with a diligence and uniformity which would have adorned the most virtuous pursuits, you opposed truth, religion, and their authors, with sophistry, contempt, and  obloquy; and taught, as far as your example or sentiments extended their influence, that the chief end of man was, to slander his God, and abuse him forever. To whom could such an effort as the following be dedicated, with more propriety, than to you. The subject it cele<g ref="char:EOLhyphen"/>brates is the most pointed attack upon your old enemies; an attack more happily devised, at least, than any of yours; as yours were more advantage<g ref="char:EOLhyphen"/>ously concerted than the efforts of any of your pre<g ref="char:EOLhyphen"/>decessors. Reasoning is an unhappy engine to be employed against christianity; as, like elephants in ancient war, it usually, in this case, turns upon those who employ it. Ridicule is a more convenient weapon, as you have successfully evinced; but in<g ref="char:EOLhyphen"/>genious
-<pb n="iv" facs="tcp:021065_0003_0FB22D262E471778"/>
+<pb n="iv" facs="unknown:021065_0003_0FB22D262E471778"/>
 misinterpretation is a still more sure and effectual annoyance; for the sword and javelin, however keen, may be dreaded and shunned, while the secret and deadly dirk is plunged to the heart of unsuspecting friendship, unhappily trusting the smooth-faced assassin. Accept then, as due, this tribute of acknowledgment from the</hi>
             </p>
             <closer>
@@ -141,7 +141,7 @@ misinterpretation is a still more sure and effectual annoyance; for the sword an
       </front>
       <body>
          <div type="poem">
-            <pb facs="tcp:021065_0004_0FB22D2BB90A7A60"/>
+            <pb facs="unknown:021065_0004_0FB22D2BB90A7A60"/>
             <head>THE TRIUMPH OF INFIDELITY.</head>
             <lg>
                <l>ERE yet the Briton left our happy shore,</l>
@@ -161,7 +161,7 @@ misinterpretation is a still more sure and effectual annoyance; for the sword an
                <l>He frown'd; the world grew dark; the moun<g ref="char:EOLhyphen"/>tains shook,</l>
                <l>And nature shudder'd as the spirit spoke.</l>
                <l>
-                  <pb n="6" facs="tcp:021065_0005_0FB22D2CC8CEAF38"/>
+                  <pb n="6" facs="unknown:021065_0005_0FB22D2CC8CEAF38"/>
 What wasted years, with angry voice he cries,</l>
                <l>I wage vain wars with yonder hated skies?</l>
                <l>Still, as I walk th' unmeasur'd round of things,</l>
@@ -187,7 +187,7 @@ What wasted years, with angry voice he cries,</l>
                <l>Before it crumbled, mid my groans and tears,</l>
                <l>The Pagan fabric of a thousand years;</l>
                <l>
-                  <pb n="7" facs="tcp:021065_0006_0FB22D2E4506E938"/>
+                  <pb n="7" facs="unknown:021065_0006_0FB22D2E4506E938"/>
 The spells, the rites, the pomp, the victims fled,</l>
                <l>The fanes all desert, and the lares dead.</l>
                <l>In vain fierce persecution hedg'd their way;</l>
@@ -213,7 +213,7 @@ The spells, the rites, the pomp, the victims fled,</l>
                <l>On dozing realms he pour'd his vengeance dread,</l>
                <l>On putrid bishops, and on priests half dead;</l>
                <l>
-                  <pb n="8" facs="tcp:021065_0007_0FB22D32F254EB10"/>
+                  <pb n="8" facs="unknown:021065_0007_0FB22D32F254EB10"/>
 Blotted, at one great stroke, the work he drew,</l>
                <l>And saw his gospel bid mankind adieu.</l>
                <l>The <note n="*" place="bottom">New progress of infidelity, under the papal hierarchy.</note> happy hour I seiz'd; the world my own:</l>
@@ -241,7 +241,7 @@ Blotted, at one great stroke, the work he drew,</l>
                <l>Hurl'd round all realms the interdictive peal;</l>
                <l>Shut kings from heaven, and nations scourg'd to hell;</l>
                <l>
-                  <pb n="9" facs="tcp:021065_0008_0FB22D345DD1CDE8"/>
+                  <pb n="9" facs="unknown:021065_0008_0FB22D345DD1CDE8"/>
 All crimes forgave; those crimes indulg'd again;</l>
                <l>Disclos'd the right divine to every sin;</l>
                <l>To certain ecstasies the faithful led;</l>
@@ -271,7 +271,7 @@ All crimes forgave; those crimes indulg'd again;</l>
                <l>Blush, Satan, blush, thou sovereign of mankind,</l>
                <l>When, what thy reptile foes, thou call'st to mind.</l>
                <l>
-                  <pb n="10" facs="tcp:021065_0009_0FB22D35C5C5FB48"/>
+                  <pb n="10" facs="unknown:021065_0009_0FB22D35C5C5FB48"/>
 New fishermen, mechanic worms, anew</l>
                <l>The unfolded gospel from any kingdom drew.</l>
                <l>From earth's wide realms, beneath the deluge bare,</l>
@@ -297,7 +297,7 @@ New fishermen, mechanic worms, anew</l>
                <l>From courts to cottages, her sovereign sway,</l>
                <l>With force resistless, bade the world obey.</l>
                <l>
-                  <pb n="11" facs="tcp:021065_0010_0FB239890DE3FC08"/>
+                  <pb n="11" facs="unknown:021065_0010_0FB239890DE3FC08"/>
 She moulded faith, and science, with a nod;</l>
                <l>Now there was not, and now there was, a God,</l>
                <l>"Let black be white," she said, and white it seem'd,</l>
@@ -318,7 +318,7 @@ She moulded faith, and science, with a nod;</l>
                <l>"Yon frightful hag's no semblance of a god."</l>
             </lg>
             <lg>
-               <pb n="12" facs="tcp:021065_0011_0FB2398A8DE6D680"/>
+               <pb n="12" facs="unknown:021065_0011_0FB2398A8DE6D680"/>
                <l>Mean <note n="*" place="bottom">
                      <p>See the host of infidel writers, during the last age.</p>
                      <p>Such advantages does Infidelity enjoy over Revelation, that both sides of moral questions will equally support that, and weaken this. Thus one Infidel will overthrow Revelation by proving that there is not one honest man living; an<g ref="char:EOLhyphen"/>other will as successfully attack it by asserting, and the assertions of Infidels are always to be taken for proofs, that there are honest men of all religions and opinions. One sees intuitively that God never did, nor can, reveal his pleasure to mankind. Another finds the Koran and Shahstan in the list of Revelations. Plato's devotion of him<g ref="char:EOLhyphen"/>self to a courtizan, and Socrate's to Alcibiades were the effusions of honest, virtuous hearts; but Paul's dedication of his life to the Redeemer was a reverse of enthusiasm. God also, tho' dishonoured by adoration, presented to him in the character of a holy sin-hating God, and incapable of being pleased, when invoked in the name of Jesus Christ, is yet glorified, when honest votaries address him, in the elevated character of an ox, an onion, or a snake, and is highly delighted with invocations, when offered in the pleasing and prevailing name of the devil.</p>
@@ -344,7 +344,7 @@ She moulded faith, and science, with a nod;</l>
                <l>Priests now were dullest, last, of mortal things;</l>
                <l>Now outflew Satan's self, on cunning's wings.</l>
                <l>
-                  <pb n="13" facs="tcp:021065_0012_0FB2398C092CEC38"/>
+                  <pb n="13" facs="unknown:021065_0012_0FB2398C092CEC38"/>
 No system here, of truth, to man is given;</l>
                <l>There my own doctrines speak the voice of heaven;</l>
                <l>While God, with smiling eyes, alike surveys</l>
@@ -354,7 +354,7 @@ No system here, of truth, to man is given;</l>
                <l>Like maggots, crawl'd Caffraria's entrail'd sorts;</l>
                <l>Or mushroom'd o'er Europa's putrid courts;</l>
                <l>
-                  <pb n="14" facs="tcp:021065_0013_0FB2398D8D0E58A0"/>
+                  <pb n="14" facs="unknown:021065_0013_0FB2398D8D0E58A0"/>
 To deist clubs familiar dar'd retire,</l>
                <l>Or howl'd, and powaw'd, round the Indian fire,</l>
                <l>Such feats my sons atchiev'd, such honors won;</l>
@@ -383,7 +383,7 @@ To deist clubs familiar dar'd retire,</l>
                <l>Pain'd, shrivill'd, gasping, from the forceful ray</l>
                <l>How crept my mite Philosophers away?</l>
                <l>
-                  <pb n="15" facs="tcp:021065_0014_0FB2398F0BA99880"/>
+                  <pb n="15" facs="unknown:021065_0014_0FB2398F0BA99880"/>
 In vain my Methodist, brave Herbert, cried,</l>
                <l>And whin'd, and wrote, pretended, pray'd, and lied <note n="*" place="bottom">See Lord Cherburg's Cock-Lane-Ghost Tale of Thunder's answer to Prayer.
  SCRIBLERUS.</note>,</l>
@@ -408,7 +408,7 @@ In vain my Methodist, brave Herbert, cried,</l>
                <l>Even Satan's self shall drop a tear for thee.</l>
             </lg>
             <lg>
-               <pb n="16" facs="tcp:021065_0015_0FB239917A7D34A0"/>
+               <pb n="16" facs="unknown:021065_0015_0FB239917A7D34A0"/>
                <l>My leaders these; yet Satan boasts his subs,</l>
                <l>His Tolands, Tindals, Collinses, and Chubbs,</l>
                <l>Morgans and Woolstons, names of lighter worth,</l>
@@ -432,7 +432,7 @@ In vain my Methodist, brave Herbert, cried,</l>
                <l>But their defects to varnish; and, in spite</l>
                <l>Of pride and dignity, resolv'd to write,</l>
                <l>
-                  <pb n="17" facs="tcp:021065_0016_0FB23992CB796890"/>
+                  <pb n="17" facs="unknown:021065_0016_0FB23992CB796890"/>
 I seized the work myself, Straight, in a cloud</l>
                <l>Of night involv'd, to Scotia's <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
@@ -494,7 +494,7 @@ I seized the work myself, Straight, in a cloud</l>
                <l>To <note n="*" place="bottom">Satan seems guilty of an anachronism here, Voltaire being the eldest writer of the two.  SCRIBLERUS.</note> France I posted, on the wings of air,</l>
                <l>And fir'd the labors of the gay Voltaire.</l>
                <l>
-                  <pb n="18" facs="tcp:021065_0017_0FB239944EF94468"/>
+                  <pb n="18" facs="unknown:021065_0017_0FB239944EF94468"/>
 He, light and gay, o'er learning's surface flew,</l>
                <l>And prov'd all things at option, false or true.</l>
                <l>The gospel's truths he saw were airy dreams,</l>
@@ -520,7 +520,7 @@ He, light and gay, o'er learning's surface flew,</l>
                <l>Mid idiot Mandarins, and baby Kings,</l>
                <l>And dwarf Philosophers, in leading-strings,</l>
                <l>
-                  <pb n="19" facs="tcp:021065_0018_0FB23995CC76C3F0"/>
+                  <pb n="19" facs="unknown:021065_0018_0FB23995CC76C3F0"/>
 Mid senseless votaries of less senseless Fo, <note n="*" place="bottom">Fo, principal Idol of the Chinese.</note>
                </l>
                <l>Wretches who nothing even seem'd to know,</l>
@@ -544,7 +544,7 @@ Mid senseless votaries of less senseless Fo, <note n="*" place="bottom">Fo, prin
                <l>He <note n="‡" place="bottom">See Voltair's Candide, the great purpose of which is to prove, that whatever is, is <hi>not</hi> right.</note> too reveal'd, that candour bade mankind</l>
                <l>Believe my haughty rival weak, and blind;</l>
                <l>
-                  <pb n="20" facs="tcp:021065_0019_0FB239981CEB0BB0"/>
+                  <pb n="20" facs="unknown:021065_0019_0FB239981CEB0BB0"/>
 That all things wrong a ruling God denied;</l>
                <l>Or a satanic imp that God implied</l>
                <l>An imp, per chance of power and skill possest,</l>
@@ -574,7 +574,7 @@ That all things wrong a ruling God denied;</l>
                <l>To life, <note n="*" place="bottom">Great men, if closely examined, will generally be found strongly to resemble each other. Thus Milton, Horner and Offian were blind. Thus this great man ex<g ref="char:EOLhyphen"/>ceedingly resembled Milton. There was however one or two wisting circumstances of difference. Milton, for in<g ref="char:EOLhyphen"/>stance, was stone-blind in his bodly eyes, but had clear and intuitive moral optics. In Socinus the case was exactly reversed. Milton also rose in his moral conceptions, with no unhappy imitation of the scriptural sublimity: Socinus, on the contrary, anticlimaxed the scriptural system down to nothing.  SCRIBLERUS,</note> Socinus here his millions drew,</l>
                <l>In ways, the art of Heaven conceal'd from view,</l>
                <l>
-                  <pb n="21" facs="tcp:021065_0020_0FB239998C3D2DC0"/>
+                  <pb n="21" facs="unknown:021065_0020_0FB239998C3D2DC0"/>
 Undeified the world's almighty trust,</l>
                <l>And lower'd eternity's great <note n="*" place="bottom">Isai. ix. 6.</note> fire to dust.</l>
                <l>He taught, O first of men! the Son of God,</l>
@@ -601,7 +601,7 @@ Undeified the world's almighty trust,</l>
                <l>More smoothly tempted and more slily gain'd;</l>
                <l>Taught easier ways to climb the bright abode;</l>
                <l>
-                  <pb n="22" facs="tcp:021065_0021_0FB2399B09D87A30"/>
+                  <pb n="22" facs="unknown:021065_0021_0FB2399B09D87A30"/>
 Less pure made virtue, and less perfect God;</l>
                <l>Less guilty vice, the atonement less divine,</l>
                <l>And pav'd, with peace and joy, the way to sin.</l>
@@ -637,7 +637,7 @@ Less pure made virtue, and less perfect God;</l>
                <l>Beneath his standard; lo what number rise,</l>
                <l>To dare for truth, and combat for the skies!</l>
                <l>
-                  <pb n="23" facs="tcp:021065_0022_0FB2399C8A8B2090"/>
+                  <pb n="23" facs="unknown:021065_0022_0FB2399C8A8B2090"/>
 Arm'd at all points, they try the battling field,</l>
                <l>With reason's sword and faith's etherial shield.</l>
                <l>To ward this fate all irreligion can,</l>
@@ -671,7 +671,7 @@ Arm'd at all points, they try the battling field,</l>
                      <p>SCRIBLERUS.</p>
                   </note> oracle of man.</l>
                <l>
-                  <pb n="24" facs="tcp:021065_0023_0FB2399E0C31BC10"/>
+                  <pb n="24" facs="unknown:021065_0023_0FB2399E0C31BC10"/>
 Yet faithful were his toils: What could he more!</l>
                <l>In Satans cause he bustled, bruised, and swore;</l>
                <l>And <note n="*" place="bottom">In A—n's Journal the writer observ<gap reason="illegible: indecipherable" extent="2 letters">
@@ -695,7 +695,7 @@ Yet faithful were his toils: What could he more!</l>
                <l>How beauteous are their feet! all regions cry,</l>
                <l>And one great, natal song salute the sky:</l>
                <l>
-                  <pb n="25" facs="tcp:021065_0024_0FB2399F8D1DAA80"/>
+                  <pb n="25" facs="unknown:021065_0024_0FB2399F8D1DAA80"/>
 Still, should I sink, a glorious fate I'll find,</l>
                <l>And sink amid the ruins of mankind.</l>
             </lg>
@@ -729,7 +729,7 @@ Still, should I sink, a glorious fate I'll find,</l>
                </l>
                <l>I'll rouse the sage his master's laws to fight,</l>
                <l>
-                  <pb n="26" facs="tcp:021065_0025_0FB239A1D7D5FD60"/>
+                  <pb n="26" facs="unknown:021065_0025_0FB239A1D7D5FD60"/>
 The injuries, long he render'd, to repair</l>
                <l>And wipe from heaven's fair book his faith and prayer.</l>
                <l>To wound the eternal cause with deepest harms,</l>
@@ -755,7 +755,7 @@ The injuries, long he render'd, to repair</l>
                <l>Scripture, and argument, oblig'd to yield,</l>
                <l>Made learning, sense, and virtue, quit the field,</l>
                <l>
-                  <pb n="27" facs="tcp:021065_0026_0FB239A34F869430"/>
+                  <pb n="27" facs="unknown:021065_0026_0FB239A34F869430"/>
 While fainting decency sunk down to see</l>
                <l>The desk of God a puppet-show for me.</l>
             </lg>
@@ -787,7 +787,7 @@ While fainting decency sunk down to see</l>
                <l>Here shall you, raptur'd, find there is no hell;</l>
                <l>A priest shall teach it, and the gospel tell;</l>
                <l>
-                  <pb n="28" facs="tcp:021065_0027_0FB239A4CAEF9F20"/>
+                  <pb n="28" facs="unknown:021065_0027_0FB239A4CAEF9F20"/>
 The pleasing truth, so long from earth conceal'd,</l>
                <l>To bless desponding guilt, is now reveal'd.</l>
                <l>Thus rang the thrilling voice the new world round;</l>
@@ -823,7 +823,7 @@ The pleasing truth, so long from earth conceal'd,</l>
                <l>P**** scowling heard, and growl'd—The day's our own!</l>
                <l>I'll now tell two lies, where I told but one.</l>
                <l>
-                  <pb n="29" facs="tcp:021065_0028_0FB239A64D0CF910"/>
+                  <pb n="29" facs="unknown:021065_0028_0FB239A64D0CF910"/>
 W****** more hard than flint, in sin grown old,</l>
                <l>Clinch'd close his claws, and grip'd his bags of gold.</l>
                <l>In vain, he cried, their woes let orphans tell;</l>
@@ -851,7 +851,7 @@ W****** more hard than flint, in sin grown old,</l>
                <l>The leacher there his lurid visage shew'd,</l>
                <l>The imp of darkness, and the foe of good;</l>
                <l>
-                  <pb n="30" facs="tcp:021065_0029_0FB239A7CF07F620"/>
+                  <pb n="30" facs="unknown:021065_0029_0FB239A7CF07F620"/>
 Who fled his lovely wife's most pure embrace,</l>
                <l>To sate on hags, and breed a mongrel race;</l>
                <l>A high-fed horse, for others wives who neigh'd;</l>
@@ -881,7 +881,7 @@ Who fled his lovely wife's most pure embrace,</l>
                <l>Each week, he paid his visitation dues;</l>
                <l>Coax'd, jested, laugh'd; rehears'd the private news;</l>
                <l>
-                  <pb n="31" facs="tcp:021065_0030_0FB239A952E013B8"/>
+                  <pb n="31" facs="unknown:021065_0030_0FB239A952E013B8"/>
 Smoak'd with each goody, thought her cheese excell'd;</l>
                <l>Her pipe he lighted, and her baby held.</l>
                <l>Or plac'd in some great town, with lacquer'd shoes,</l>
@@ -905,7 +905,7 @@ Smoak'd with each goody, thought her cheese excell'd;</l>
                <l>Alike no Deist, and no Christian, he;</l>
                <l>But from all principle, all virtue, free.</l>
                <l>
-                  <pb n="32" facs="tcp:021065_0031_0FB239AACB71D710"/>
+                  <pb n="32" facs="unknown:021065_0031_0FB239AACB71D710"/>
 To him all things the same, as good or evil;</l>
                <l>Jehovah, Jove, the Lama, or the Devil;</l>
                <l>Mohammed's braying, or Isaiah's lays;</l>
@@ -933,7 +933,7 @@ To him all things the same, as good or evil;</l>
                <l>Scarce smil'd, himself secure from God to know,</l>
                <l>So poor the triumph o'er so weak a foe.</l>
                <l>
-                  <pb n="33" facs="tcp:021065_0032_0FB239AD97B8E810"/>
+                  <pb n="33" facs="unknown:021065_0032_0FB239AD97B8E810"/>
 In the deep midnight of his guilty mind,</l>
                <l>Where not one solitary virtue shin'd,</l>
                <l>Hardly, at times, his struggling conscience wrought</l>
@@ -963,7 +963,7 @@ In the deep midnight of his guilty mind,</l>
                <l>Enter'd the round of silly, vain parade;</l>
                <l>His hair he power'd, and his bow he made.</l>
                <l>
-                  <pb n="34" facs="tcp:021065_0033_0FB239AE8B319DA8"/>
+                  <pb n="34" facs="unknown:021065_0033_0FB239AE8B319DA8"/>
 Shall powder'd heads, he cried, be sent to hell?</l>
                <l>Shall men in vain in such fine houses dwell?</l>
             </lg>
@@ -995,7 +995,7 @@ Shall powder'd heads, he cried, be sent to hell?</l>
                <l>On every side, expressive emblems rose,</l>
                <l>The man, the scene, the purpose to disclose.</l>
                <l>
-                  <pb n="35" facs="tcp:021065_0034_0FB239B00A3F69C0"/>
+                  <pb n="35" facs="unknown:021065_0034_0FB239B00A3F69C0"/>
 Here wrinkled dotage, like a fondled boy,</l>
                <l>Titter'd, and smirk'd its momentary joy:</l>
                <l>His crumbs there avarice grip'd, with lengthen'd nails,</l>
@@ -1023,7 +1023,7 @@ Here wrinkled dotage, like a fondled boy,</l>
                <l>And shew'd this truth, tho' nicely cover'd o'er,</l>
                <l>That hell's broad path leads round to heavens door.</l>
                <l>
-                  <pb n="36" facs="tcp:021065_0035_0FB239B18871B288"/>
+                  <pb n="36" facs="unknown:021065_0035_0FB239B18871B288"/>
 See <note n="*" place="bottom">How much alike are great men, still say I? The Doctor has found a whole system of divinity, in three or four Greek adverbs, and prepositions; as Lord Coke had before discovered, that there is much curious and cunning kind of learning, in an &amp;c.— SCRIBLERUS.</note>
                   <hi>kai's</hi> and <hi>epi's</hi> build the glorious and scheme!</l>
                <l>And <hi>gar's</hi> and <hi>pro's</hi> unfol'd their proof supreme!</l>
@@ -1047,7 +1047,7 @@ See <note n="*" place="bottom">How much alike are great men, still say I? The Do
                <l>And chief, that ruling principle within,</l>
                <l>The love of sweet security in sin:</l>
                <l>
-                  <pb n="37" facs="tcp:021065_0036_0FB239B30E849168"/>
+                  <pb n="37" facs="unknown:021065_0036_0FB239B30E849168"/>
 Beneath whose power all pleasing falshoods, blind</l>
                <l>And steal, with soft conviction, on the mind.</l>
                <l>No good more luscious than their truth she knows.</l>
@@ -1077,7 +1077,7 @@ Beneath whose power all pleasing falshoods, blind</l>
                <l>And know, with search most deep, and wits most keen,</l>
                <l>I've learn'd, that hell is but a school for sin:</l>
                <l>
-                  <pb n="38" facs="tcp:021065_0037_0FB239B48A84B7F0"/>
+                  <pb n="38" facs="unknown:021065_0037_0FB239B48A84B7F0"/>
 Which yields, to heaven, the soul from guilt refin'd,</l>
                <l>And, tho' it mars the devils, mends mankind.</l>
                <l>And thus the matter stands. When God makes man,</l>
@@ -1107,7 +1107,7 @@ Which yields, to heaven, the soul from guilt refin'd,</l>
                <l>Conscience, a moment, ceas'd her stings to rear,</l>
                <l>And joy excessive whelm'd each rising fear.</l>
                <l>
-                  <pb n="39" facs="tcp:021065_0038_0FB239B6CB659A40"/>
+                  <pb n="39" facs="unknown:021065_0038_0FB239B6CB659A40"/>
 But soon reflection's glass again she rear'd,</l>
                <l>Spread out fell sin; and all her horrors bar'd;</l>
                <l>There anguish, guilt, remorse, her dreadful train,</l>
@@ -1141,7 +1141,7 @@ But soon reflection's glass again she rear'd,</l>
                <l>To vice and error nobly liberal grew;</l>
                <l>Spoke kindly of all doctrines, but the true;</l>
                <l>
-                  <pb n="40" facs="tcp:021065_0039_0FB239B84ADFD428"/>
+                  <pb n="40" facs="unknown:021065_0039_0FB239B84ADFD428"/>
 All men, but saints, he hop'd to heaven might rise,</l>
                <l>And thought all roads, but virtue, reach'd the skies,</l>
             </lg>
